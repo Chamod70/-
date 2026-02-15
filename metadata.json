@@ -1,0 +1,7 @@
+{
+  "name": "ධර්ම දේශක - Dhamma Deshaka",
+  "description": "A peaceful and meditative Dhamma sermon generator that provides rhythmic Buddhist teachings in Sinhala with high-quality AI speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
